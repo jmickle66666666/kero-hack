@@ -1,0 +1,19 @@
+Scripting labels
+*[IN] -- When the map is loaded?
+
+
+
+Scripting commands
+<call[gDLT]
+<dely[time] -- script delay. possibly in frames?
+<exit -- ends a block of code?
+<fadI -- fade in
+<fadO -- fade out
+<home -- goes to the home/title screen. in kero blaster this is the load game screen
+<jump[gIntroFallIn] -- goes to a label. sometimes it references labels outside of the scope of the script. how?
+<lkFU[1] -- ???
+<muLd[kb_stg01a] -- load music
+<muLp -- loops the loaded music
+<muSt -- stop the music
+<save -- hmm
+<trns[00debugroom;dLinkR;IN] -- transition to new scene. no idea what the next arguments are
